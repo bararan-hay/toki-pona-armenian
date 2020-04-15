@@ -1,2 +1,3 @@
-# toki pona-armenian
+# տօկի պօնա֊հայերէն բառարան
 
+[տօկի պօնան](https://en.wikipedia.org/wiki/Toki_Pona) մինիմալիստական լեզու է, բառերի քանակը՝ 124
